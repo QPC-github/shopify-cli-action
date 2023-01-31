@@ -28,7 +28,7 @@
     "jest": "^27.4.5"
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^5.0.0",
     "axios": "^0.24.0",
     "nodejs-file-downloader": "^4.8.1",
